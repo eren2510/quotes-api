@@ -1,0 +1,213 @@
+{
+  "quotes": [
+  {
+    quote: "You do not rise to the level of your goals. You fall to the level of your systems.",
+    author: "James Clear",
+    work: "Atomic Habits",
+    categories: ["inspirational", "success", "habits"]
+  },
+  {
+    quote: "Every action you take is a vote for the type of person you wish to become.",
+    author: "James Clear",
+    work: "Atomic Habits",
+    categories: ["inspirational", "self-improvement"]
+  },
+  {
+    quote: "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    author: "Marcus Aurelius",
+    work: "Meditations",
+    categories: ["philosophy", "wisdom", "stoicism"]
+  },
+  {
+    quote: "The happiness of your life depends upon the quality of your thoughts.",
+    author: "Marcus Aurelius",
+    work: "Meditations",
+    categories: ["philosophy", "happiness"]
+  },
+  {
+    quote: "Who you are is defined by what you’re willing to struggle for.",
+    author: "Mark Manson",
+    work: "The Subtle Art of Not Giving a F*ck",
+    categories: ["life", "wisdom", "mindset"]
+  },
+  {
+    quote: "Desire is a contract that you make with yourself to be unhappy until you get what you want.",
+    author: "Naval Ravikant",
+    work: "The Almanack of Naval Ravikant",
+    categories: ["wisdom", "philosophy", "happiness"]
+  },
+  {
+    quote: "Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.",
+    author: "Naval Ravikant",
+    work: "The Almanack of Naval Ravikant",
+    categories: ["success", "wisdom", "business"]
+  },
+  {
+    quote: "Doing well with money has a little to do with how smart you are and a lot to do with how you behave.",
+    author: "Morgan Housel",
+    work: "The Psychology of Money",
+    categories: ["finance", "mindset", "wisdom"]
+  },
+  {
+    quote: "If you do not prioritize your life, someone else will.",
+    author: "Greg McKeown",
+    work: "Essentialism",
+    categories: ["productivity", "success", "life"]
+  },
+  {
+    quote: "Focus is a matter of deciding what things you're not going to do.",
+    author: "John Carmack",
+    work: "Masters of Doom",
+    categories: ["focus", "productivity", "work"]
+  },
+  {
+    quote: "When you are content to be simply yourself and don't compare or compete, everyone will respect you.",
+    author: "Lao Tzu",
+    work: "Tao Te Ching",
+    categories: ["wisdom", "philosophy", "peace"]
+  },
+  {
+    quote: "The cave you fear to enter holds the treasure you seek.",
+    author: "Joseph Campbell",
+    work: "The Hero with a Thousand Faces",
+    categories: ["courage", "inspirational", "life"]
+  },
+  {
+    quote: "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+    author: "Carl Jung",
+    work: "Archetypes and the Collective Unconscious",
+    categories: ["psychology", "wisdom", "mindset"]
+  },
+  {
+    quote: "It's not that we have a short time to live, but that we waste a lot of it.",
+    author: "Seneca",
+    work: "On the Shortness of Life",
+    categories: ["time", "philosophy", "wisdom"]
+  },
+  {
+    quote: "He who has a why to live can bear almost any how.",
+    author: "Friedrich Nietzsche",
+    work: "Twilight of the Idols",
+    categories: ["philosophy", "purpose", "strength"]
+  },
+  {
+    quote: "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances.",
+    author: "Viktor E. Frankl",
+    work: "Man's Search for Meaning",
+    categories: ["mindset", "hope", "resilience"]
+  },
+  {
+    quote: "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control.",
+    author: "Epictetus",
+    work: "Discourses",
+    categories: ["stoicism", "philosophy", "wisdom"]
+  },
+  {
+    quote: "The impediment to action advances action. What stands in the way becomes the way.",
+    author: "Marcus Aurelius",
+    work: "Meditations",
+    categories: ["stoicism", "resilience", "inspirational"]
+  },
+  {
+    quote: "It is not the man who has too little, but the man who craves more, that is poor.",
+    author: "Seneca",
+    work: "Letters from a Stoic",
+    categories: ["wisdom", "wealth", "philosophy"]
+  },
+  {
+    quote: "Small daily improvements over time lead to stunning results.",
+    author: "Robin Sharma",
+    work: "The 5 AM Club",
+    categories: ["success", "habits", "productivity"]
+  },
+  {
+    quote: "You have to build momentum. The best way to build momentum is to execute every day.",
+    author: "Alex Hormozi",
+    work: "$100M Offers",
+    categories: ["business", "execution", "focus"]
+  },
+  {
+    quote: "Action expresses priorities.",
+    author: "Mahatma Gandhi",
+    work: "Non-Violent Resistance",
+    categories: ["wisdom", "action", "life"]
+  },
+  {
+    quote: "Risk comes from not knowing what you're doing.",
+    author: "Warren Buffett",
+    work: "The Essays of Warren Buffett",
+    categories: ["finance", "wisdom", "business"]
+  },
+  {
+    quote: "The most effective way to do it, is to do it.",
+    author: "Amelia Earhart",
+    work: "Last Flight",
+    categories: ["inspirational", "action", "courage"]
+  },
+  {
+    quote: "Work expands so as to fill the time available for its completion.",
+    author: "C. Northcote Parkinson",
+    work: "Parkinson's Law",
+    categories: ["productivity", "time", "work"]
+  },
+  {
+    quote: "Simplicity is the prerequisite for reliability.",
+    author: "Edsger W. Dijkstra",
+    work: "EWD498",
+    categories: ["tech", "simplicity", "wisdom"]
+  },
+  {
+    quote: "It always seems impossible until it's done.",
+    author: "Nelson Mandela",
+    work: "Long Walk to Freedom",
+    categories: ["inspirational", "perseverance"]
+  },
+  {
+    quote: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    author: "Winston Churchill",
+    work: "Never Give In!",
+    categories: ["courage", "perseverance", "success"]
+  },
+  {
+    quote: "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
+    author: "Hans Hofmann",
+    work: "Search for the Real",
+    categories: ["simplicity", "focus", "art"]
+  },
+  {
+    quote: "If you want to go fast, go alone. If you want to go far, go together.",
+    author: "African Proverb",
+    work: "Traditional Wisdom",
+    categories: ["teamwork", "leadership", "wisdom"]
+  },
+  {
+    quote: "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+    author: "Ambrose Redmoon",
+    work: "Gnosis Magazine",
+    categories: ["courage", "mindset", "inspirational"]
+  },
+  {
+    quote: "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    author: "Johann Wolfgang von Goethe",
+    work: "Wilhelm Meister's Journeyman Years",
+    categories: ["action", "wisdom", "execution"]
+  },
+  {
+    quote: "What we achieve inwardly will change outer reality.",
+    author: "Plutarch",
+    work: "Parallel Lives",
+    categories: ["mindset", "philosophy", "growth"]
+  },
+  {
+    quote: "Doubt kills more dreams than failure ever will.",
+    author: "Suzy Kassem",
+    work: "Rise Up and Salute the Sun",
+    categories: ["confidence", "inspirational", "mindset"]
+  },
+  {
+    quote: "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+    author: "Socrates",
+    work: "Way of the Peaceful Warrior",
+    categories: ["change", "growth", "philosophy"]
+  }
+    }

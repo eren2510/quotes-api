@@ -184,66 +184,31 @@
     },
     {
       "id": 27,
-      "quote": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "work": "Long Walk to Freedom",
-      "categories": ["inspirational", "perseverance"]
-    },
-    {
-      "id": 28,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "work": "Never Give In!",
       "categories": ["courage", "perseverance", "success"]
     },
     {
-      "id": 29,
+      "id": 28,
       "quote": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
       "author": "Hans Hofmann",
       "work": "Search for the Real",
       "categories": ["simplicity", "focus", "art"]
     },
     {
-      "id": 30,
-      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
-      "author": "African Proverb",
-      "work": "Traditional Wisdom",
-      "categories": ["teamwork", "leadership", "wisdom"]
-    },
-    {
-      "id": 31,
-      "quote": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
-      "author": "Ambrose Redmoon",
-      "work": "Gnosis Magazine",
-      "categories": ["courage", "mindset", "inspirational"]
-    },
-    {
-      "id": 32,
+      "id": 29,
       "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
       "author": "Johann Wolfgang von Goethe",
       "work": "Wilhelm Meister's Journeyman Years",
       "categories": ["action", "wisdom", "execution"]
     },
     {
-      "id": 33,
-      "quote": "What we achieve inwardly will change outer reality.",
-      "author": "Plutarch",
-      "work": "Parallel Lives",
-      "categories": ["mindset", "philosophy", "growth"]
-    },
-    {
-      "id": 34,
+      "id": 30,
       "quote": "Doubt kills more dreams than failure ever will.",
       "author": "Suzy Kassem",
       "work": "Rise Up and Salute the Sun",
       "categories": ["confidence", "inspirational", "mindset"]
     },
-    {
-      "id": 35,
-      "quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
-      "author": "Socrates",
-      "work": "Way of the Peaceful Warrior",
-      "categories": ["change", "growth", "philosophy"]
-    }
   ]
 }
